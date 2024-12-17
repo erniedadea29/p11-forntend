@@ -152,7 +152,7 @@ function Register() {
                 onChange={(e) => setPassword(e.target.value)}
                 required
                 style={{
-                  backgroundColor: '#333',
+                  backgroundColor: '#fff',
                   color: '#333',
                   border: '1px solid #777',
                 }}
