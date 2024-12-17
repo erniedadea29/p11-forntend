@@ -152,8 +152,8 @@ function Register() {
                 onChange={(e) => setPassword(e.target.value)}
                 required
                 style={{
-                  backgroundColor: '#333',
-                  color: '#fff',
+                  backgroundColor: '#fff',
+                  color: '#333',
                   border: '1px solid #777',
                 }}
               />
@@ -168,8 +168,8 @@ function Register() {
                 onChange={(e) => setConfirmPassword(e.target.value)}
                 required
                 style={{
-                  backgroundColor: '#333',
-                  color: '#fff',
+                  backgroundColor: '#fff',
+                  color: '#333',
                   border: '1px solid #777',
                 }}
               />
