@@ -85,8 +85,7 @@ function Login() {
             {/* Full-screen Background with Overlay */}
             <div
                 style={{
-                  backgroundImage: `url('https://pointblank.zepetto.com/images/common/og_image_phth.jpg')`,
-                    backgroundImage: "url('/mnt/data/image.png')", // Path to your uploaded image
+                    backgroundImage: `url('https://pointblank.zepetto.com/images/common/og_image_phth.jpg')`,
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                     height: '100vh',
